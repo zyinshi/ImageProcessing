@@ -11,3 +11,7 @@
   - mean
   - median
   - mode
+4. template-based object detection
+  - multi-size template pyramid
+  - detection error: overlap ratio of boundingbox
+  
